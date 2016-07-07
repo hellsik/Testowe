@@ -1,0 +1,6 @@
+namespace ContactMenager.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
